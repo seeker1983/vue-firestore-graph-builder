@@ -35,6 +35,3 @@ Demo is available on
 
 Use dummy@gmail.com / dummy123 to login.
 
-___
-
-[**vue-firestore-graph-builder**](https://github.com/seeker1983/vue-firestore-graph-builder)
