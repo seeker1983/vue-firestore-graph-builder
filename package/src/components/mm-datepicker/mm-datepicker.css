@@ -1,0 +1,13 @@
+.mm-datepicker-root {
+
+}
+
+.vdp-datepicker {
+    display: inline-block;
+}
+
+.mm-datepicker-root .sep {
+	font-size: 18px;
+    padding-left: 5px;
+    padding-right: 5px;
+}

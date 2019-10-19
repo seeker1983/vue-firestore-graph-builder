@@ -1,0 +1,10 @@
+.main-view-root {
+    font-family: Avenir;
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+}
+
+router-view {
+	padding: 10px;
+}
