@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@grpc/grpc-js": "^0.6.9",
-    "axios": "0.15.3",
+    "axios": "0.18.1",
     "change-case": "^3.0.1",
     "chart.js": "^2.7.1",
     "firebase": "^4.7.0",
