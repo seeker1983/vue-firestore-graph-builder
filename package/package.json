@@ -12,7 +12,7 @@
     "lint": "eslint --ext .js,.vue src test/unit/specs"
   },
   "dependencies": {
-    "@grpc/grpc-js": "^0.6.9",
+    "@grpc/grpc-js": "^1.1.8",
     "axios": "0.18.1",
     "change-case": "^3.0.1",
     "chart.js": "^2.7.1",
